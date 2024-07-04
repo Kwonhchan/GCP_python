@@ -1,0 +1,9 @@
+/.ipynb_checkpoints
+/augmentation_test
+/temp
+/tmp
+/tmp2
+*.csv
+*.zip
+*.jpg
+*.png
